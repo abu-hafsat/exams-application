@@ -1,0 +1,122 @@
+#section-1{
+    background-color: black;
+    color: white;
+    width: 500px;
+    margin: 50px auto;
+   padding: 20px;
+   font-family: sans-serif;
+   border-radius: 50px;
+}
+
+#heading{
+    text-align: center;
+    margin-top: 10px;
+}
+#description{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+#head{
+    text-align: center;
+    color: blue;
+    margin: 100px;
+}
+
+#bar{
+    margin: 10px auto;
+    width: 250px;
+    text-align: center;
+}
+
+#submit{
+    margin: 0px 10px;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
+
+.next{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
+.prev{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: blue;
+    color: white;
+}
+
+#background{
+ width: 620px;   
+ height: 620px;
+ border: 2px dashed blue;
+ border-radius: 500px;
+ margin: 20px auto;
+ background-color: aliceblue;
+}
+
+#sec{
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+#quiz-heading{
+    text-align: center;
+    margin-top: 10px; 
+}
+
+#quiz-question{
+    text-align: center;
+    margin: 30px auto;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+
+main{
+    display: flex;
+}
+
+#answers{
+color: blue;
+background-color: black;
+opacity: 0.5;
+height: 200px;
+padding: 10px;
+align-self: center;
+width: 200px;
+}
+
+#quiz-input{
+    text-align: center;
+    width: 300px;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#quiz-submit{
+    width: 80px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+#button{
+    text-align: center;
+}
+
+#inpt{
+    text-align: center;
+}
+
+#text{
+    color: blue;
+    text-align: center;
+    font-size: 1.5rem;
+    
+}
